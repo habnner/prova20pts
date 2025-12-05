@@ -5,5 +5,12 @@
         "email": "hab@gmail.com",
         "senha": "$2y$10$oSzV3RUXQpg6BA0v5vYvfuPHOiJyqHcUbzKcZiLHhNzcBwvE2PDXK",
         "data_nascimento": "2010-10-10"
+    },
+    {
+        "nome": "onze",
+        "username": "onze",
+        "email": "onze@gmail.com",
+        "senha": "$2y$10$SdZsfcqNPA3M33.sf8ckiOoQEEZJpSLVcXeqkuvMq8z6y6yAXvmAm",
+        "data_nascimento": "2006-02-14"
     }
 ]

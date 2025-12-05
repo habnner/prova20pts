@@ -97,7 +97,8 @@ if (isset($_GET['curtir_id']) && is_numeric($_GET['curtir_id'])) {
                         <small class="text-muted">@<?= htmlspecialchars($_SESSION["username"]) ?></small>
                     </div>
                 </div>
-                <button class="btn btn-dark btn-sm">Editar Perfil</button>
+               <a href="editar_perfil.php" class="btn btn-dark btn-sm">Editar Perfil</a>
+
             </div>
 
             <form method="post" action="postar.php">

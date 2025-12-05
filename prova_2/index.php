@@ -58,7 +58,8 @@ $posts = [
                         <small class="text-muted">@<?= htmlspecialchars($_SESSION["usuario"]) ?></small>
                     </div>
                 </div>
-                <button class="btn btn-dark btn-sm">Editar Perfil</button>
+                <a href="editar_perfil.php" class="btn btn-dark btn-sm">Editar Perfil</a>
+
             </div>
             <form method="post" action="postar.php">
                 <textarea class="form-control mb-2" rows="2" name="mensagem" placeholder="Quais são as novidades?"></textarea>
